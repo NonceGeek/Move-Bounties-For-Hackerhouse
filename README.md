@@ -1,4 +1,4 @@
-# Move-Bouties-For-Hackerhouse
+# Move-Bounties-For-Hackerhouse
 
 THis Repo is created for Move Bounties for Hackerhouse that hodl on Dali.
 
